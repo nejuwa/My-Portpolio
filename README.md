@@ -49,5 +49,3 @@ This is my personal portfolio website built with HTML, CSS, and Bootstrap. It sh
 This project uses a free BootstrapMade template and is for personal, non-commercial use.
 
 ---
-
-
