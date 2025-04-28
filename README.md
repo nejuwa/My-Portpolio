@@ -2,7 +2,7 @@
 
 This is my personal portfolio website built with HTML, CSS, and Bootstrap. It showcases my journey as a Software Engineering student, my skills, and a selection of web projects.
 
-🔗 **Live Site**: [https://app.netlify.com/teams/nejuwa/sites].
+🔗 **Live Site**: [https://https://bejewelled-griffin-2ffe66.netlify.app/].  # app.netlify.com/teams/nejuwa/sites
 
 ##  About Me
 
